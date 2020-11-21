@@ -1,7 +1,6 @@
 package com.github.vinist.citiesapi.repository;
 
 import com.github.vinist.citiesapi.entity.City;
-import org.postgresql.core.NativeQuery;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
